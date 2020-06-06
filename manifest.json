@@ -1,6 +1,7 @@
 {
     "name": "Kishan Kumar",
     "short_name": "Kishan",
+    "start_url": "/",
     "icons": [
         {
             "src": "/android-chrome-192x192.png",
